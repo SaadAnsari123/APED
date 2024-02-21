@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">APED</string>
+    <string name="automatic_pronunciation_error_detector">Automatic Pronunciation error Detector</string>
+    <string name="tap_to_type">Tap to type</string>
+    <string name="pitch">Pitch</string>
+    <string name="speed">Speed</string>
+    <string name="language">Language</string>
+    <string name="todo">TODO</string>
+    <string name="a_p_e_d">A.P.E.D.</string>
+    <string name="history">History</string>
+</resources>

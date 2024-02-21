@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APED</string>
+    <string name="automatic_pronunciation_error_detector">સ્વચાલિત ઉચ્ચારણ ભૂલ ડિટેક્ટર</string>
+    <string name="tap_to_type">ટાઇપ કરવા માટે ટેપ કરો</string>
+    <string name="pitch">પીચ</string>
+    <string name="speed">ઝડપ</string>
+    <string name="language">ભાષા</string>
+</resources>

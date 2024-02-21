@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APED</string>
+    <string name="automatic_pronunciation_error_detector">خودکار تلفظ کی خرابی کا پتہ لگانے والا</string>
+    <string name="tap_to_type">ٹائپ کرنے کے لیے تھپتھپائیں۔</string>
+    <string name="pitch">پچ</string>
+    <string name="speed">رفتار</string>
+    <string name="language">زبان</string>
+</resources>

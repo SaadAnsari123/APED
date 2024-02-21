@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APED</string>
+    <string name="automatic_pronunciation_error_detector">स्वयंचलित उच्चार त्रुटी शोधक</string>
+    <string name="tap_to_type">टाइप करण्यासाठी टॅप करा</string>
+    <string name="pitch">खेळपट्टी</string>
+    <string name="speed">गती</string>
+    <string name="language">भाषा</string>
+</resources>
